@@ -1,0 +1,68 @@
+/* I always reset all the html elements */
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body
+{
+	font-family: sans-serif;
+	min-height: 100vh;
+	color: rgb(85, 85, 85);
+	background-color: #ffffff;
+}
+
+h2{
+	text-align: center;
+	padding: 30px 0;
+	font-size: 300%;
+	line-height:52px;
+	color: rgb(12, 129, 225);
+	padding: 20px;
+	margin-top: 30px;
+	
+	
+}
+
+
+table{
+	width:  1100px;
+	margin: 30px auto;
+}
+
+th{
+	text-align: center;
+	font-weight:bolder;
+	color: rgba(255, 255, 255, 0.923);
+	font-size: large;
+	background-color: rgb(12, 129, 225);
+	padding: 10px;
+	padding-left: 50px;
+	padding-right: 50px;
+	border:  thin solid #d4d4d4;
+}
+
+
+
+
+
+
+td{
+	
+    font-weight: bold;
+	color: rgba(13, 11, 20, 0.923);
+}
+
+table td{
+	padding: 10px;
+	border:  thin solid #d4d4d4;
+	width: 18%;
+	text-align: center;
+	background-color: rgb(255, 255, 255);
+	
+}
+
+
+
+

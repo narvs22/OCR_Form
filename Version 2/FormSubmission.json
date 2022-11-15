@@ -1,0 +1,113 @@
+[
+    {
+        "First Name": "Steve",
+        "Surname": "Ali",
+        "DOB": "7/9/1998",
+        "Address": "897 Fairmont Avenue",
+        "Contact Number": "+1 202-918-2132",
+        "Cause of Condition": "Employment",
+        "Insurance Company": "C"
+
+    },
+
+    {
+        
+        "First Name": "Bob",
+        "Surname": "Khan",
+        "DOB": "6/5/1999",
+        "Address": "1160 Grey Fox Farm Road",
+        "Contact Number": "+1 323-527-5549",
+        "Cause of Condition": "Other Accident",
+        "Insurance Company": "B"
+    },
+
+    {
+        "First Name": "Sarah",
+        "Surname": "Mohammed",
+        "DOB": "4/10/2002",
+        "Address": "1015 Terra Cotta Street",
+        "Contact Number": "+1 223-710-8183",
+        "Cause of Condition": "Auto Accident",
+        "Insurance Company": "D"
+
+    },
+
+    {
+        "First Name": "Victor",
+        "Surname": "Hunter",
+        "DOB": "12/2/1989",
+        "Address": "2121 Morningview Lane",
+        "Contact Number": "+1 505-446-0007",
+        "Cause of Condition": "Other Accident",
+        "Insurance Company": "A"
+
+    },
+
+    {
+        "First Name": "Mark",
+        "Surname": "Dennis",
+        "DOB": "10/12/1991",
+        "Address": "1354 Hillside Drive",
+        "Contact Number": "+1 505-785-8564",
+        "Cause of Condition": "Other Accident",
+        "Insurance Company": "A"
+
+    },
+    
+
+    {
+        "First Name": "Kenny",
+        "Surname": "Solomon",
+        "DOB": "12/28/2003",
+        "Address": "",
+        "Contact Number": "+1 321-780-9962",
+        "Cause of Condition": "Auto Accident",
+        "Insurance Company": "B"
+
+    },
+
+    {
+        "First Name": "Clarissa",
+        "Surname": "Johnson",
+        "DOB": "",
+        "Address": "1371 Terry Lane",
+        "Contact Number": "+1 505-778-2931",
+        "Cause of Condition": "Other Accident",
+        "Insurance Company": "B"
+
+    },
+
+    {
+        "First Name": "Natasha",
+        "Surname": "Mohammed",
+        "DOB": "5/1/1998",
+        "Address": "478 Grasselli Street",
+        "Contact Number": "+1 319-625-8751",
+        "Cause of Condition": "Auto Accident",
+        "Insurance Company": ""
+
+    },
+
+    {
+        "First Name": "Elizabeth",
+        "Surname": "Khan",
+        "DOB": "12/2/1995",
+        "Address": "1609 Bates Brothers Road",
+        "Contact Number": "+1 205-657-0447",
+        "Cause of Condition": "Other Accident",
+        "Insurance Company": "C"
+
+    },
+    
+
+    {
+        "First Name": "Zack",
+        "Surname": "Ali",
+        "DOB": "10/18/1993",
+        "Address": "",
+        "Contact Number": "+1 413-914-3572",
+        "Cause of Condition": "Auto Accident",
+        "Insurance Company": "C"
+
+    }
+]
