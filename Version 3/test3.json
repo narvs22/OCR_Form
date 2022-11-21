@@ -1,0 +1,25 @@
+[{
+
+    "First Name": "Peter",
+    "Surname": "john",
+    "DOB": "2004",
+    "Age": "95",
+    "Address": "San Fernando",
+    "Contact Number": "765-4321, someone@gmail.com",
+    "ID Number": "030939239329",
+    "Cause of Condition": "Other Accident",
+    "Insurance Company": "B"
+  
+  }, {
+    "First Name": "Sarah",
+    "Surname": "Mohammed",
+    "DOB": "2002",
+    "Age": "24",
+    "Address": "Random Street #3",
+    "Contact Number": "(868) 765-1234",
+    "ID Number": "121763981378 ",
+    "Cause of Condition": "Auto Accident",
+    "Insurance Company": "A"
+  
+  }
+  ]
