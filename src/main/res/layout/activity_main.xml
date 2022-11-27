@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--Relative Layout is a layout which arranges views/widgets/ viewGroup according to the position
+of other views/widgets/viewGroups-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".MainActivity">
+<!--ImageView is where the logo is displayed. Code sets the dimensions of the view -->
+    <ImageView
+        android:id="@+id/idIVLogo"
+        android:layout_width="191dp"
+        android:layout_height="199dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="78dp"
+        android:background="@drawable/scanner" />
+    <!--TextView is where the text is displayed. Code sets the dimensions of the view -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/idIVLogo"
+            android:text="ScanDroid"
+            android:textAlignment="center"
+            android:layout_gravity="center"
+            android:layout_centerHorizontal="true"
+            android:textColor="@color/black"
+            android:textSize="30sp"
+            android:textStyle= "bold"
+            android:layout_marginStart="20sp"
+            android:layout_marginEnd="20sp"
+            android:id="@+id/idTVHead"
+            android:layout_marginTop="30sp"
+            android:layout_marginBottom="10sp">
+        </TextView>
+<!-- Continue button is created. Code sets the dimensions and positioning of the button-->
+    <Button
+        android:id="@+id/idBtnContinue"
+        android:layout_width="282dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/idTVHead"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="95dp"
+        android:layout_marginEnd="20dp"
+        android:layout_weight="1"
+        android:backgroundTint="#00BCD4"
+        android:text="Continue"
+        android:textStyle= "bold"
+        android:textColor="@color/white"
+        android:textAllCaps="false" />
+
+</RelativeLayout>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F6F2F3"
+    tools:context=".ScannerActivity">
+    <!--ImageView is where the image is displayed. Code sets the dimensions of the view -->
+    <ImageView
+        android:id="@+id/idIVCaptureImage"
+        android:layout_width="300dp"
+        android:layout_height="325dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp" />
+    <!-- Snap button is created. Code sets the dimensions and positioning of the button-->
+    <Button
+        android:id="@+id/idBtnSnap"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="450dp"
+        android:layout_marginEnd="20dp"
+        android:backgroundTint="#00BCD4"
+        android:text="Snap"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textStyle="bold" />
+    <!-- Select Image button is created. Code sets the dimensions and positioning of the button-->
+    <Button
+
+        android:id="@+id/idBtnSelect"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+
+        android:layout_below="@id/idBtnSnap"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="10dp"
+        android:layout_centerHorizontal="true"
+        android:backgroundTint="#00BCD4"
+        android:text="Select Image"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textStyle="bold" />
+    <!-- Upload button is created. Code sets the dimensions and positioning of the button-->
+    <Button
+        android:id="@+id/idBtnUpload"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_below="@id/idBtnSelect"
+        android:layout_marginEnd="10dp"
+        android:backgroundTint="#00BCD4"
+        android:text="Upload"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/convertedText"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_below="@+id/idIVCaptureImage"
+
+        android:layout_marginTop="40dp"
+
+        android:textColor="@color/teal_700" />
+
+</RelativeLayout>
