@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "233425685068",
+    "project_id": "textrecog-1168d",
+    "storage_bucket": "textrecog-1168d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233425685068:android:607be014cbf0a8184dc2e9",
+        "android_client_info": {
+          "package_name": "com.example.ocrapp002"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233425685068-i106pjn1sfolvm63fvojtpdkc4gcl8nj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6qOBsvW12__71_6cyplkzdTh_4Ku7kw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233425685068-i106pjn1sfolvm63fvojtpdkc4gcl8nj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
